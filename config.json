@@ -1,7 +1,7 @@
 {
-  "token": "MY_BOT_TOKEN_HERE",
+  "token": "NTQwMzIzOTMyNTkxNjIwMTE2.XSvUIg.yH83DvtFAxTcD2JIyhqFUFgU-ss",
   "bot": {
-    "commands_prefix": "!",
+    "commands_prefix": ";",
     "commands_require_mention": false,
     "plugins": [
       "plugins.test",
